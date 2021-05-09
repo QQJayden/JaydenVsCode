@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{C9AB486C-B9BB-4530-B236-53CC9A8FA1DD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JaydenCode", "JaydenCode\JaydenCode.vcxproj", "{72562D4E-6813-44F6-BB63-B302F2397599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C9AB486C-B9BB-4530-B236-53CC9A8FA1DD}.Debug|Win32.ActiveCfg = Debug|Win32
-		{C9AB486C-B9BB-4530-B236-53CC9A8FA1DD}.Debug|Win32.Build.0 = Debug|Win32
-		{C9AB486C-B9BB-4530-B236-53CC9A8FA1DD}.Release|Win32.ActiveCfg = Release|Win32
-		{C9AB486C-B9BB-4530-B236-53CC9A8FA1DD}.Release|Win32.Build.0 = Release|Win32
+		{72562D4E-6813-44F6-BB63-B302F2397599}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72562D4E-6813-44F6-BB63-B302F2397599}.Debug|Win32.Build.0 = Debug|Win32
+		{72562D4E-6813-44F6-BB63-B302F2397599}.Release|Win32.ActiveCfg = Release|Win32
+		{72562D4E-6813-44F6-BB63-B302F2397599}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
